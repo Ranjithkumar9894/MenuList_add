@@ -370,7 +370,6 @@ function App() {
               sx={{ my: 0.5 }}
               variant="outlined"
               size="small"
-              // onClick={handleCheckedLeft}
               disabled={true}
             >
               &lt;
